@@ -12,5 +12,9 @@
 
 **Note: Port number(3000) may vary based on the availability on your computer**
 
+API endpoints
+
+- http://localhost:3000/posts (GET,POST,PUT,DELETE)
+
 
 
