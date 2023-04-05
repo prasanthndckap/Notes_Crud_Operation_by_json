@@ -10,7 +10,7 @@
 - Open http://localhost:3000/ in your browser
 
 
-** Note: Port number(3000) may vary based on the availability on your computer **
+**Note: Port number(3000) may vary based on the availability on your computer**
 
 
 
