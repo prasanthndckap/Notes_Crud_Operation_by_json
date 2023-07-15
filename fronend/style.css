@@ -1,0 +1,121 @@
+body {
+    background-color: bisque;
+}
+
+.create {
+    width: 23%;
+    background-color: azure;
+    text-align: center;
+    color: blue;
+    border-radius: 8px;
+}
+form {
+    margin-left: 30px;
+}
+
+.add {
+    font-size: 100px;
+    margin-top: 55px;
+    color: blue;
+}
+
+.cancel {
+
+    color: grey;
+    font-size: 35px;
+    margin-top: 14px;
+    margin-right: 20px;
+
+}
+
+.addnote {
+    background-color: aliceblue;
+    width: 30%;
+    display: none;
+    margin: auto;
+    border-radius: 5px;
+    display: none;
+
+
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+}
+
+input {
+    width: 50%;
+    height: 25px;
+    margin-bottom: 25px;
+
+
+}
+
+.savenote {
+    background-color: rgb(29, 29, 199);
+    width: 40%;
+    margin: -10px 20px 15px 56px;
+    height: 33px;
+    border-radius: 10px;
+}
+
+.show {
+    display: block;
+}
+
+
+
+.newbox {
+
+    background-color: #efffff;
+    width: 20%;
+    /* height: 200px; */
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 250px;
+    /* padding-top: 5px; */
+    /* display: flex; */
+    flex-direction: row;
+    border-radius: 8px;
+
+}
+
+.container {
+    margin-top: 29px;
+    margin-left: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+
+p.description {
+    height: 45%;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+p.option {
+    margin-top: 0px;
+}
+
+
+.optiondiv {
+    border-radius: 9px;
+    position: relative;
+    background-color: white;
+    width: 49px;
+    padding: 6px 0px 0px 20px;
+    height: 23%;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    bottom: 74px;
+    left: 197px;
+    display: none;
+}
+.edit{
+    margin-bottom: 10px;
+}
